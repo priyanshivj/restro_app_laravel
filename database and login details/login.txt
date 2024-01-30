@@ -1,0 +1,8 @@
+for login admin panel in restro app use - 
+admin@gmail.com
+pass- password
+
+//////**********//////
+
+for loading app -  first use php artisan serve 
+and for loading css - use command npm run dev 
